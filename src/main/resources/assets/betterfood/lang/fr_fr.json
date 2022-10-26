@@ -1,0 +1,21 @@
+{
+  "item.betterfood.rice": "riz",
+  "item.betterfood.chocolate": "chocolat",
+  "item.betterfood.fried_eggs": "oeuf au plat",
+  "item.betterfood.tomato": "tomate",
+  "item.betterfood.sushi": "sushi",
+  "item.betterfood.cheese": "fromage",
+  "item.betterfood.salad": "salade",
+  "item.betterfood.pop_corn": "pop corn",
+  "item.betterfood.wrap": "wrap",
+  "item.betterfood.burger": "burger",
+  "item.betterfood.pancakes": "crêpes",
+  "item.betterfood.fries": "trites",
+  "item.betterfood.nuggets": "nuggets",
+  "item.betterfood.corn": "mais",
+  "item.betterfood.yaourt_cake": "gâteau au yaourt",
+  "item.betterfood.chocolate_cake": "gâteau au chocolat",
+  "item.betterfood.pasta": "pâtes",
+  "item.betterfood.pasta_bolognese": "pâtes bologniaise",
+  "item.betterfood.algae": "algue"
+}

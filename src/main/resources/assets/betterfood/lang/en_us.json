@@ -10,5 +10,12 @@
   "item.betterfood.wrap": "wrap",
   "item.betterfood.burger": "burger",
   "item.betterfood.pancakes": "pancakes",
-  "item.betterfood.fries": "fries"
+  "item.betterfood.fries": "fries",
+  "item.betterfood.nuggets": "nuggets",
+  "item.betterfood.corn": "corn",
+  "item.betterfood.yaourt_cake": "yaourt cake",
+  "item.betterfood.chocolate_cake": "chocolate cake",
+  "item.betterfood.pasta": "pasta",
+  "item.betterfood.pasta_bolognese": "pasta bolognese",
+  "item.betterfood.algae": "algae"
 }

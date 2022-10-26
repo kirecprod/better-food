@@ -25,4 +25,9 @@ public class BetterFoodItemsInit
     public static final RegistryObject<Item> CHOCOLATE_CAKE = ITEMS.register("chocolate_cake", () -> new ChocolateCakeItem());
     public static final RegistryObject<Item> PANCAKES = ITEMS.register("pancakes", () -> new PancakesItem());
     public static final RegistryObject<Item> FRIES = ITEMS.register("fries", () -> new FriesItem());
+    public static final RegistryObject<Item> NUGGETS = ITEMS.register("nuggets", () -> new NuggetsItem());
+    public static final RegistryObject<Item> CORN = ITEMS.register("corn", () -> new CornItem());
+    public static final RegistryObject<Item> PASTA = ITEMS.register("pasta", () -> new PastasItem());
+    public static final RegistryObject<Item> PASTA_BOLOGNESE = ITEMS.register("pasta_bolognese", () -> new PastaBologneseItem());
+    public static final RegistryObject<Item> ALGAE = ITEMS.register("algae", () -> new AlgaeItem());
 }
